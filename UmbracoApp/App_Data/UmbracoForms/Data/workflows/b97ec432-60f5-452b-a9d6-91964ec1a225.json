@@ -1,0 +1,16 @@
+{
+  "id": "b97ec432-60f5-452b-a9d6-91964ec1a225",
+  "name": "Send email",
+  "form": "adf160f1-39f5-44c0-b01d-9e2da32bf093",
+  "active": true,
+  "workflowTypeId": "17c61629-d984-4e86-b43b-a8407b3efea9",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "Mikkel.Sejersen@kraftvaerk.com",
+    "SenderEmail": "",
+    "Subject": "EmailTest",
+    "RazorViewFilePath": "Forms/Emails/Example-Template.cshtml",
+    "Attachment": ""
+  },
+  "sortOrder": 0
+}
